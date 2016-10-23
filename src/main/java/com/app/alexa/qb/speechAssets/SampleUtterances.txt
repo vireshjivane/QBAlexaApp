@@ -1,0 +1,5 @@
+QIntent how am I doing
+QIntent how is it going
+QIntent how is my company
+GithubIntent get github for {user}
+GithubIntent get {user}

@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "GithubIntent",
+      "slots": [
+        {
+          "name" : "user",
+          "type": "LIST_OF_USERS"
+        }
+      ]
+    },
+    {
+      "intent": "QIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
